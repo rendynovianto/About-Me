@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rendynovianto
-- 📫 This repository contains my exercise from various sources
+- 📫 This repository is my first exercise
 
 <!---
 rendynovianto/rendynovianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
