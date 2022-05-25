@@ -4,7 +4,7 @@
   * discover market behaviour
   * find customers behaviour
   * etc
-- The dataset is acquired from https://www.kaggle.com/datasets/saurabhkh1/popularity-based-movie-dataset
+- The dataset is acquired from
 
 <!---
 rendynovianto/rendynovianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
