@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rendynovianto
-- 📫 This repository is my first exercise
+- 📫 This repository is my first SQL project
 - The data is acquired from https://www.kaggle.com/datasets/saurabhkh1/popularity-based-movie-dataset
 
 <!---
