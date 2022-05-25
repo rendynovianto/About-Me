@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @rendynovianto
-- 📫 This repository is my first SQL project
+- 📫 This repository is my first data analysis SQL project
+- The purpose of this project is to
+  * discover market behaviour
+  * find customers behaviour
+  * etc
 - The dataset is acquired from https://www.kaggle.com/datasets/saurabhkh1/popularity-based-movie-dataset
 
 <!---
