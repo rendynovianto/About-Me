@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rendynovianto
-- 📫 This repository is my first data analysis SQL project
-- The purpose of this project is to
+📫 This repository is my first data analysis SQL project
+
+-The purpose of this project is to
   * discover market behaviour
   * find customers behaviour
   * etc
